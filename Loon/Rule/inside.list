@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,emerald.com
 DOMAIN-SUFFIX,tandfonline.com
+# 中国
+GEOIP,cn
